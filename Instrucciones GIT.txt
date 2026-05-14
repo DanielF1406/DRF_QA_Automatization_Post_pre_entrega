@@ -1,3 +1,4 @@
+git branch -M primera_rama #crea primera_rama
 git checkout principal #cambia a rama principal
 git add . #agrega todos los archivos al proximo commit
 git commit -m "seguimos en principal" #prepara el envio con su nombre
