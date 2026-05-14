@@ -1,0 +1,6 @@
+git checkout principal #cambia a rama principal
+git add . #agrega todos los archivos al proximo commit
+git commit -m "seguimos en principal" #prepara el envio con su nombre
+git push -u origin principal #envia a rama principal
+
+
